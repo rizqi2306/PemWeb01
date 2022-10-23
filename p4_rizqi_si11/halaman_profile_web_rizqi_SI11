@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TUGAS Minggu ke-4</title>
+</head>
+<body style="background-color:aquamarine;">
+    <fieldset style="padding: 10px; background-color: yellowgreen; border: 2px solid black ;">
+    <legend style="color: whitesmoke ;"><b>week4 - Directional Profile Page</b></legend>        
+    <main  style="display:flex ;">
+        <section align="center" style="margin:10px 10px ;width:35%" ><img src="image0.jpeg" alt="foto 1"  width="250" height="200"></section>
+        <article style="width:45% ; margin: 10px 10px;">
+            <h1>Rizqi Naufal Al-Hakim</h1>
+            <p> Jl.M.Ali, Rt04/02 No.36
+                <br>Kp.Bendungan
+                <br>Cilodong, Depok
+            </p>
+            <table>
+                <tr>
+                    <td>Email </td>
+                    <td>: <a href="">rizqi32hakim@gmail.com</a></td>
+                </tr>
+                <tr>
+                    <td>Telephone </td>
+                    <td>: <a href="">089635946694</a></td>
+                </tr>
+            </table>
+        </article>
+        <aside style="width:20% ;margin: 10px 10px; text-align: right;">
+            <p><u>Kategori</u></p>
+            <p>1</p>
+            <p>2</p>
+        </aside>
+    </main>
+    <main>
+        <article style="padding: 20px; margin:10px; text-align:justify">
+            <section>
+                <h1>Perkenalkan saya Rizqi Naufal Al-Hakim, hobi saya adalah fotografi dan vidio grafi, saya senang mencoba hal 
+                    baru untuk menambah pengalaman saya, dan terkadang sya melakukan hal itu secara berkelompok untuk mencari ide ide baru. </h1>
+            </section>
+            <section>
+                <h1>Introduce me Rizqi Naufal Al-Hakim, my hobbies are photography and video graphics, I like to try things
+                    new to add to my experience, and sometimes I do it in groups to look for new ideas.</h1>
+            </section>
+        </article>
+    </main>
+
+    <main style="display:flex ;">
+        <section align="center" style="width:34% ;padding: 10px; margin: 10px; border: 1px solid whitesmoke;"> 
+            <object data="https://vt.tiktok.com/ZSRGDE9sG/" type="video" width="200" height="150" ></object>
+        </section >   
+        <section align="center" style="width:33% ;padding: 10px; margin: 10px; border: 1px solid whitesmoke;">
+            <img src="IMG_8496.jpg" alt="foto 1" width="200" height="150">
+        </section>
+        <aside style="width:33%;">
+            <fieldset style="border:1px solid white; height: 20px; padding: 10px; margin: 10px;">
+                <legend>Tambahan</legend>
+                <p><a href="https://www.instagram.com/p/CieU290J9z4/?igshid=YmMyMTA2M2Y=">instagram</a></p>
+                <p><a href="https://youtu.be/k7TqNR8aMec">youtube</a></p>
+                <p><a href="http://tiktok.com/@niatganiat">Tiktok</a></p>
+            </fieldset>
+        </aside>
+    </main>
+    </fieldset>
+</body>
+</html>
